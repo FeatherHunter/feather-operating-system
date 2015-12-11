@@ -1,0 +1,15 @@
+//I'm Feather's Author.Welcome to Feather.
+
+//My name is WangChenhao.
+
+//If you have any question,
+//you can send e-mail to 975559549@qq.com
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Welcome to Feather");
+
+    return 0;
+}
